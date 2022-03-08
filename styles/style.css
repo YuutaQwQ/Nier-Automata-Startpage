@@ -31,7 +31,7 @@
     
       a:focus,
       a:hover {
-        color: #a9b1d6;
+        color: #d66b70;
       }
     
       nav {
@@ -52,7 +52,7 @@
       li:first-child {
         font-weight: bold;
         line-height: 2em;
-        color: #ad8ee6;
+        color: #a62d34;
       }
     
       img {
@@ -65,7 +65,7 @@
     
     input {
     background-color: unset;
-    color: #ad8ee6;
+    color: white;
     font: 'Arial';
     height: 100%;
     width: 100%;
