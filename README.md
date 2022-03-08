@@ -1,5 +1,5 @@
 # Startpage
-This is my first Startpage
+This is my first Startpage.
 
 [Live Preview](https://pod042.netlify.app/)
 
